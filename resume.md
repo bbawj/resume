@@ -61,6 +61,21 @@ Fixed bugs in API endpoints using **.NET C#**.
 ## Projects
 ::::: {#subheader}
 ::::: {#left}
+### Semantic Search Plugin
+Personal Project
+
+[Github](https://github.com/bbawj/obsidian-semantic-search)
+:::::
+::::: {#right}
+
+Built a tool in **Rust** and **TypeScript** supporting semantic search for Obsidian.md, a popular note taking application. 
+
+Implemented a simple interface and algorithm allowing users to convert their notes into tokenizable sections, and use OpenAI's embedding API to create embedding vectors for semantic search.
+:::::
+:::::
+
+::::: {#subheader}
+::::: {#left}
 ### NTU DownDetector
 NTU Open-Source Society Project 
 
@@ -70,21 +85,17 @@ NTU Open-Source Society Project
 ::::: {#right}
 Led a student developer team of 6 people in building a status reporting and monitoring web application for school services to improve the visibility of important student services such as internet and printing availability.
 
-Used **React** and **SQL** to develop a minimum viable product which allowed students to authenticate, view data charts and report their issues.
+Used **JavaScript** and **SQL** to develop a minimum viable product which allowed students to authenticate, view data charts and report their issues.
 :::::
 :::::
+
+---
 
 ::::: {#subheader}
-::::: {#left}
-### Calendar Synchronizer
-Personal Project
-
-[Github](https://github.com/bbawj/NTU-Calendar) - [Website](https://ntucalendar.netlify.app/)
+::::: {#left .align-center}
+## Skills
 :::::
 ::::: {#right}
-
-Built a frontend web application for NTU students to synchronize their school schedule with their personal Google Calendar.
-
-Implemented a filtering algorithm to extract calendar information from HTML tables in **React**.
+Vim <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
 :::::
 :::::
