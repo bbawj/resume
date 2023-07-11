@@ -1,12 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@font-face {
+  font-family: 'Inter', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  font-weight: normal;
+  font-style: normal;
+}
 
 html {
-font-family: 'Inter', sans-serif;
-    }
+  font-family: 'Inter', sans-serif;
+}
 
 body {
-        margin: 1cm;
-    }
+  margin: 1cm;
+}
 
 h1 {
   font-size: 1.5rem;
@@ -22,8 +27,8 @@ h3 {
 }
 
 #subheader {
-    display: flex;
-    align-items: start;
+  display: flex;
+  align-items: start;
 }
 
 #left {
@@ -39,8 +44,8 @@ h3 {
 }
 
 .center {
-        margin: 0 auto;
-    }
+  margin: 0 auto;
+}
 
 .align-center {
   align-self: center;

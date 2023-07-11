@@ -23,6 +23,19 @@ GPA: 4.77/5.0 | Dean's List 2021 Business | Technical Director, Open Source Soci
 ## Work Experience
 ::::: {#subheader}
 ::::: {#left}
+### IoT Engineer Intern
+
+Beep Technologies
+
+06/2023 - 11/2023
+:::::
+::::: {#right}
+
+Developed new features and maintained stability of an Android IoT payment application in **Java** and **Kotlin**.
+:::::
+:::::
+::::: {#subheader}
+::::: {#left}
 ### Software Engineer Intern
 
 Shopee
@@ -49,8 +62,6 @@ Scoot
 ::::: {#right}
 
 Developed frontend features in **Angular** to allow customers to change flights and review their booking as part of the internet booking engine.
-
-Improved the tracking of customer interactions by integrating Google Tag Manager into the Angular application.
 
 Fixed bugs in API endpoints using **.NET C#**.
 :::::
@@ -96,6 +107,6 @@ Used **JavaScript** and **SQL** to develop a minimum viable product which allowe
 ## Skills
 :::::
 ::::: {#right}
-Vim <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
+Vim <code>&#124;</code> Rust <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
 :::::
 :::::
