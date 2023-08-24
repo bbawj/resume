@@ -32,6 +32,8 @@ Beep Technologies
 ::::: {#right}
 
 Developed new features and maintained stability of an Android IoT payment application in **Java** and **Kotlin**.
+
+Profiled applications and implemented changes to reduce memory resource footprint.
 :::::
 :::::
 ::::: {#subheader}
@@ -107,6 +109,6 @@ Used **JavaScript** and **SQL** to develop a minimum viable product which allowe
 ## Skills
 :::::
 ::::: {#right}
-Vim <code>&#124;</code> Rust <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
+Vim <code>&#124;</code> Rust <code>&#124;</code> Java <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
 :::::
 :::::
