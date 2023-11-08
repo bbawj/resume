@@ -1,0 +1,15 @@
+Dear Hiring Team,
+
+**I am writing to apply for the role of backend intern with your team at Ahrefs.**
+
+I am a final year student (graduating June 2024) at Nanyang Technological University, studying a double degree in Computer Science and Business Analytics. I am an avid programmer and would love to have a chance to work on the real world problems that you face at Ahrefs.
+
+I have a strong foundational knowledge and experience in software engineering across a portion of the technology stack. I have worked on web frontends at Scoot, where I wrote JavaScript to improve web UIs. At Shopee, I learnt what it is like to be part of a large engineering team. Building an internal tool for API monitoring and reporting allowed me to interface with databases and Golang, as well as communicate with different team leads to ensure software requirements and dependencies are up to date. Most recently at Beep, I gained the experience of working in a high speed startup, with very small teams and large amounts of autonomy. I deployed 2 major versions of the Android system which runs our Point-of-Sale solution on the ground, connecting charge point operators to payment gateways. In these 2 versions, I wrote Kotlin to allow our system to synchronize on poor condition events such as network and power loss, improving the stability of the system on the ground and reducing customer complaint reports.
+
+In my personal time, I have worked on a variety of side projects to supplement my knowledge and skills. For my final year project, I built an AIoT emulator for federated learning. This is a C program which launches federated learning clients on low memory devices, using QEMU and Zephyr RTOS, communicating with a central server running on the machine host. As a personal project, I built a semantic search plugin for my favorite note taking application Obsidian. This is a Rust program which is compiled to Web Assembly, interfacing with the Obsidian application and OpenAI APIs to read and generate embedding tokens from notes. I have also been part of the NTU Open Source Society, where I led a small student volunteer team to work on a web application called NTU Downdetector. This is a website which seeks to perform the same features as downdetector.com, but for important school services such as network and printing.
+
+I am currently falling down the technological stack and hope to be working on system software someday. I am constantly amazed at how little I actually know about this field and the scale and types of problems faced at Ahrefs is extremely intruiging to me. Functional programming is something I have yet to dabble into, so I am excited to learn and experience new paradigms for solving real world problems. Hoping to hear from you soon.
+
+Kind regards,
+
+Brendan

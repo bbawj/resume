@@ -14,7 +14,7 @@ brendanawjang@gmail.com <code>&#124;</code> [Website](https://brendanang.dev) <c
 ::::: {#right}
 **Bachelor of Engineering in Computer Science | Bachelor of Business in Business Analytics**
 
-GPA: 4.77/5.0 | Dean's List 2021 Business | Technical Director, Open Source Society
+GPA: 4.79/5.0 | Dean's List 2021 Business | Technical Director, Open Source Society
 :::::
 :::::
 
@@ -31,9 +31,9 @@ Beep Technologies
 :::::
 ::::: {#right}
 
-Developed new features and maintained stability of an Android IoT payment application in **Java** and **Kotlin**.
+Deployed core features such as power failure recovery and maintained stability of an Android IoT payment POS application in **Java** and **Kotlin**, helping to reduce live production reports.
 
-Profiled applications and implemented changes to reduce memory resource footprint.
+Profiled applications, solving out-of-memory errors and reducing overall memory resource footprint.
 :::::
 :::::
 ::::: {#subheader}
@@ -74,6 +74,19 @@ Fixed bugs in API endpoints using **.NET C#**.
 ## Projects
 ::::: {#subheader}
 ::::: {#left}
+### AIoT Emulated Federated Learning
+Final Year Project
+
+[Github](https://github.com/bbawj/zfl)
+:::::
+::::: {#right}
+
+Built a **C** program to allow users to spin up federated machine learning clients running on QEMU on ZephyrOS, communicating with a central HTTP server.
+:::::
+:::::
+
+::::: {#subheader}
+::::: {#left}
 ### Semantic Search Plugin
 Personal Project
 
@@ -81,7 +94,7 @@ Personal Project
 :::::
 ::::: {#right}
 
-Built a tool in **Rust** and **TypeScript** supporting semantic search for Obsidian.md, a popular note taking application. 
+Built and maintaining a tool in **Rust** and **TypeScript** supporting semantic search for Obsidian.md, a popular note taking application. 
 
 Implemented a simple interface and algorithm allowing users to convert their notes into tokenizable sections, and use OpenAI's embedding API to create embedding vectors for semantic search.
 :::::
@@ -109,6 +122,6 @@ Used **JavaScript** and **SQL** to develop a minimum viable product which allowe
 ## Skills
 :::::
 ::::: {#right}
-Vim <code>&#124;</code> Rust <code>&#124;</code> Java <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
+Vim <code>&#124;</code> C <code>&#124;</code> Rust <code>&#124;</code> Java <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
 :::::
 :::::
