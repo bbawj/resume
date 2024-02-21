@@ -23,49 +23,61 @@ GPA: 4.79/5.0 | Dean's List 2021 Business | Technical Director, Open Source Soci
 ## Work Experience
 ::::: {#subheader}
 ::::: {#left}
-### IoT Engineer Intern
+### HPE Aruba Networking
 
-Beep Technologies
+Software Firmware Engineer Intern
 
-06/2023 - 11/2023
+01/2024 - Present
 :::::
 ::::: {#right}
 
-Deployed core features such as power failure recovery and maintained stability of an Android IoT payment POS application in **Java** and **Kotlin**, helping to reduce live production reports.
-
-Profiled applications, solving out-of-memory errors and reducing overall memory resource footprint.
+- Part of the network switch operating system diagnostics team working primarily in **C**.
+- Implemented daemon capabilities to verify hardware systems such as EDAC error counts, eMMC function and PCIe switch function.
 :::::
 :::::
 ::::: {#subheader}
 ::::: {#left}
-### Software Engineer Intern
+### Beep Technologies
 
-Shopee
+IoT Engineer Intern
+
+06/2023 - 12/2023
+:::::
+::::: {#right}
+
+- Core contributor to 2 major versions of an Android IoT payment POS application in **Java** and **Kotlin**.
+- Built stability features such as power failure recovery and synchronization, reducing production defects by 40%.
+- Profiled applications, solving out-of-memory errors and reducing overall memory resource footprint.
+:::::
+:::::
+::::: {#subheader}
+::::: {#left}
+### Shopee
+
+Software Engineer Intern
 
 08/2022 - 12/2022
 :::::
 ::::: {#right}
 
-Built and designed features for an automatic script in **Go** for internal API failure detection, verdict and reporting, helping to increase the failure reporting efficiency for the Order team.
-
-Detected and coordinated fixes for API bugs, improving UAT environment stability rates from **60% to 90%**. 
+- Built and designed features for an automatic script in **Go** for internal API failure detection, verdict and reporting, helping to increase the failure reporting efficiency for the Order team.
+- Detected and coordinated fixes for API bugs, improving UAT environment stability rates from **60% to 90%**. 
 :::::
 :::::
 
 ::::: {#subheader}
 ::::: {#left}
-### Full Stack Developer Intern
+### Scoot
 
-Scoot
+Full Stack Developer Intern
 
 05/2022 - 07/2022
 :::::
 
 ::::: {#right}
 
-Developed frontend features in **Angular** to allow customers to change flights and review their booking as part of the internet booking engine.
-
-Fixed bugs in API endpoints using **.NET C#**.
+- Developed frontend features in **Angular** to allow customers to change flights and review their booking.
+- Fixed bugs in API endpoints using **.NET C#**.
 :::::
 :::::
 
@@ -74,14 +86,15 @@ Fixed bugs in API endpoints using **.NET C#**.
 ## Projects
 ::::: {#subheader}
 ::::: {#left}
-### AIoT Emulated Federated Learning
+### Emulation Framework for Federated Learning
 Final Year Project
 
 [Github](https://github.com/bbawj/zfl)
 :::::
 ::::: {#right}
 
-Built a **C** program to allow users to spin up federated machine learning clients running on QEMU on ZephyrOS, communicating with a central HTTP server.
+- Built a framework in **C** to allow users to bootstrap federated machine learning clients running on emulated hardware with QEMU and ZephyrOS
+- Aggregated metrics such as TCP  communicating with a central HTTP server.
 :::::
 :::::
 
@@ -94,24 +107,22 @@ Personal Project
 :::::
 ::::: {#right}
 
-Built and maintaining a tool in **Rust** and **TypeScript** supporting semantic search for Obsidian.md, a popular note taking application. 
-
-Implemented a simple interface and algorithm allowing users to convert their notes into tokenizable sections, and use OpenAI's embedding API to create embedding vectors for semantic search.
+- Built and maintaining a tool in **Rust** and **TypeScript** supporting semantic search for Obsidian.md, a popular note taking application. 
+- Implemented a simple interface and algorithm allowing users to convert their notes into tokenizable sections, and use OpenAI's embedding API to create embedding vectors for semantic search.
 :::::
 :::::
 
 ::::: {#subheader}
 ::::: {#left}
 ### NTU DownDetector
-NTU Open-Source Society Project 
+Open-Source Society Project 
 
 [Github](https://github.com/bbawj/NTU-Downdetector) - [Website](https://ntu-downdetector.vercel.app/)
 :::::
 
 ::::: {#right}
-Led a student developer team of 6 people in building a status reporting and monitoring web application for school services to improve the visibility of important student services such as internet and printing availability.
-
-Used **JavaScript** and **SQL** to develop a minimum viable product which allowed students to authenticate, view data charts and report their issues.
+- Led a student developer team of 6 people in building a status reporting and monitoring web application for school services in **JavaScript**.
+- Developed a mvp which allowed students to authenticate, view data charts and report their issues.
 :::::
 :::::
 
@@ -122,6 +133,6 @@ Used **JavaScript** and **SQL** to develop a minimum viable product which allowe
 ## Skills
 :::::
 ::::: {#right}
-Vim <code>&#124;</code> C <code>&#124;</code> Rust <code>&#124;</code> Java <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
+Vim <code>&#124;</code> C <code>&#124;</code> Rust <code>&#124;</code> Kotlin <code>&#124;</code> Java <code>&#124;</code> Javascript <code>&#124;</code> Go <code>&#124;</code>  
 :::::
 :::::

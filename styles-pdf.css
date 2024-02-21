@@ -19,24 +19,36 @@ h1 {
 
 h2 {
   margin: 0;
+  margin-bottom: 0.5em;
   font-size: 1.25rem;
+}
+
+ul {
+  margin: 0;
 }
 
 h3 {
   font-size: 1rem;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 0.5em;
 }
 
 #subheader {
   display: flex;
   align-items: start;
+  margin-bottom: 0.75em;
+}
+
+#title {
+  display: block;
 }
 
 #left {
   width: 25%;
-}
-
-#left p {
-  margin: 0;
 }
 
 #right {
