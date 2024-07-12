@@ -14,7 +14,7 @@ brendanawjang@gmail.com <code>&#124;</code> [Website](https://brendanang.dev) <c
 ::::: {#right}
 **Bachelor of Engineering in Computer Science | Bachelor of Business in Business Analytics**
 
-GPA: 4.79/5.0 | Dean's List 2021 Business | Technical Director, Open Source Society
+GPA: 4.58/5.0 | Dean's List 2021 Business | Technical Director, Open Source Society
 :::::
 :::::
 
@@ -31,8 +31,10 @@ Software Firmware Engineer Intern
 :::::
 ::::: {#right}
 
-- Part of the network switch operating system diagnostics team working primarily in **C**.
-- Implemented daemon capabilities to verify hardware systems such as EDAC error counts, eMMC function and PCIe switch function.
+- Part of the operating system diagnostics team for network switches working primarily in **C** and **Python**.
+- Implemented features to verify device health such as eMMC and PCIe switches through I2C and FPGA APIs.
+- Developed unit, feature and component tests, helping to improve code line coverage by 40%.
+- Debugged and fixed memory corruption issues using GDB. 
 :::::
 :::::
 ::::: {#subheader}
@@ -45,9 +47,10 @@ IoT Engineer Intern
 :::::
 ::::: {#right}
 
-- Core contributor to 2 major versions of an Android IoT payment POS application in **Java** and **Kotlin**.
-- Built stability features such as power failure recovery and synchronization, reducing production defects by 40%.
-- Profiled applications, solving out-of-memory errors and reducing overall memory resource footprint.
+- Lead the development of 2 major versions of an Android IoT EV POS application in **Java** and **Kotlin**.
+- Designed and implemented stability features to handle scenarios such as power and network failure reducing production defects by 40%.
+- Profiled and debugged out-of-memory errors using heap dumps, reducing overall memory resource footprint.
+- Improved visibility of failure indicators by implementing key event logging.
 :::::
 :::::
 ::::: {#subheader}
@@ -61,7 +64,7 @@ Software Engineer Intern
 ::::: {#right}
 
 - Built and designed features for an automatic script in **Go** for internal API failure detection, verdict and reporting, helping to increase the failure reporting efficiency for the Order team.
-- Detected and coordinated fixes for API bugs, improving UAT environment stability rates from **60% to 90%**. 
+- Detected and coordinated fixes for API bugs, improving UAT environment stability rates from 60% to 90%. 
 :::::
 :::::
 
@@ -93,8 +96,9 @@ Final Year Project
 :::::
 ::::: {#right}
 
-- Built a framework in **C** to allow users to bootstrap federated machine learning clients running on emulated hardware with QEMU and ZephyrOS
-- Aggregated metrics such as TCP  communicating with a central HTTP server.
+- Built a framework in **C** to allow users to bootstrap federated machine learning clients running on emulated hardware with QEMU and ZephyrOS.
+- Implements client-server federated averaging over basic gradient descent
+- Supports network simulation and collection of aggregated metrics such as TCP network statistics.
 :::::
 :::::
 
