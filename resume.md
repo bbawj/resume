@@ -30,9 +30,10 @@ System Engineer
 09/2024 - Present
 :::::
 ::::: {#right}
-- Automotive Ethernet team, primarily working on ensuring BASE-T PHY Compliance to the IEEE and OpenAlliance. Specifically, in depth into 10Mbit state machine testing, interoperability and sleep/wake functionality.
-- Built platform capabilities on the Zynq Ultrascale (**C++** and a little bit of **Verilog**) and created test automation tooling for signal decoding and reporting.
-- Modelling and formal verification of state machines, using tools like TLA+ and SystemC.
+- Automotive Ethernet team, primarily working on ensuring BASE-T1 PHY Compliance to the IEEE and OpenAlliance. Specifically, in depth into 10BASE-T1S standards.
+- Built platform capabilities on the Zynq Ultrascale (**C++** and a little bit of **Verilog**) to execute test plans, such as packet generation, distortion patterns.
+- Created test automation tooling in Python for signal decoding and report generation.
+- Developed a modelling and formal verification methodology, using SystemVerilog Assertions, TLA+ and SystemC to investigate design bugs.
 
 :::::
 :::::
@@ -80,21 +81,6 @@ Software Engineer Intern
 :::::
 :::::
 
-::::: {#subheader}
-::::: {#left}
-### Scoot
-
-Full Stack Developer Intern
-
-05/2022 - 07/2022
-:::::
-
-::::: {#right}
-
-- Webapp work in **Angular** and Dotnet to allow customers to change flights and review their booking.
-:::::
-:::::
-
 ---
 
 ## Projects
@@ -130,6 +116,6 @@ Full Stack Developer Intern
 ## Skills
 :::::
 ::::: {#right}
-Vim <code>&#124;</code> C <code>&#124;</code> Willing to dive into anything
+Vim <code>&#124;</code> C <code>&#124;</code> Linux <code>&#124;</code> Willing to dive into anything
 :::::
 :::::
